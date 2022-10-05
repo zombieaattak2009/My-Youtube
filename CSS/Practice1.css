@@ -1,0 +1,73 @@
+ 
+p {
+    font-size: 20px;
+}
+
+
+ .Uber {
+    background-color: black;
+    color: white;
+    border-style: none;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+ }
+
+ .Uber:hover {
+    cursor: pointer;
+ }
+
+ .Amazon {
+    background-color: rgb(255,216,20);
+    color: black;
+    border-style: none;
+    border-radius: 20px;
+    font-size: 15px;
+    padding-right: 55px;
+    padding-left: 55px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 10px;
+ }
+
+ .Amazon:hover {
+    cursor: pointer;
+ }
+
+ .A1 {
+    margin-top: 100px;
+    color: rgb(0,113,133);
+    text-decoration: underline;
+    
+ }
+
+ .A2 {
+   font-weight: bold;
+   font-size: 30px;
+   margin-bottom: 15px;
+ }
+
+ .A3 {
+   color: rgb(0,118,0);
+   font-weight: bold;
+   margin-bottom: 10px;
+ }
+
+ .Abuy {
+   background-color: rgb(255,164,28);
+    color: black;
+    border-style: none;
+    border-radius: 20px;
+    font-size: 15px;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+
+ .Abuy:hover {
+   cursor: pointer;
+ }
